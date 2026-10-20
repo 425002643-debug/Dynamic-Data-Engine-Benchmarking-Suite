@@ -20,4 +20,30 @@ Scenario 3: Smart Library Transaction & Archival System
 - Students/Faculty/Borrowers
 - Library Administrators
 
+Objectives
+**General Objective**: To design and implement a C++ library transaction engine that uses appropriate data structures to manage catalog records, reservations, returns, and archival efficiently, and to evaluate its performance through benchmarking as data volume increases.
 
+**Specific Objectives**
+1. Catalog (linked list):  Add, delete, search, update, and display book records, with duplicate-ISBN checking and no memory leaks.
+2. Stack: The returned-book drop stack and undo/audit trail.
+3. Queues:  FIFO hold queue (plus the priority hold queue if you build it).
+4. Search and Sort: Linear and binary search, plus bubble, selection and insertion sort, with comparison swap counters.
+5. Benchmarking and CLI: The benchmarking suite with timing and report table, the menu-driven interface. 
+
+Features
+- Catalog Management: Add, update, delete, search, and display book records using a linked list, with duplicate-ISBN checking and no memory leaks.
+- Return Handling: A stack manages returned books (LIFO) and supports undo and an audit trail of recent actions.
+- Reservation Queue: A FIFO hold queue serves borrowers first-come, first-served, with an optional priority queue.
+- Search & Sort: Linear and binary search, plus bubble, selection, and insertion sort, each tracking comparisons and swaps.
+- Benchmarking Suite: Measures execution time and shows the results in a report table.
+- Menu-Driven CLI: An easy-to-use command-line interface that ties every module together.
+
+-------------------------------------------------------------------------------
+**Team**
+-------------------------------------------------------------------------------
+Member	                                            Role
+Serdenia, Sheayla Rihanna A.         Linked List & Catalog Developer
+Cunanan, Jhoey                       Stack & Undo/Audit Developer
+Mier, Ronamae                        Queue & Priority Queue Developer
+De Pedro, Precious Mae M.            Search & Sort Developer
+Quintela, Nicole M.                  Benchmarking & CLI Developer
