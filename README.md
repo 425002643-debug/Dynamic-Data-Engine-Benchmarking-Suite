@@ -20,7 +20,6 @@ Scenario 3: Smart Library Transaction & Archival System
 - Students/Faculty/Borrowers
 - Library Administrators
 
-Objectives
 **General Objective**: To design and implement a C++ library transaction engine that uses appropriate data structures to manage catalog records, reservations, returns, and archival efficiently, and to evaluate its performance through benchmarking as data volume increases.
 
 **Specific Objectives**
