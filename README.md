@@ -40,9 +40,10 @@ Features
 -------------------------------------------------------------------------------
 **Team**
 -------------------------------------------------------------------------------
-Member	                        |                    Role
-- Serdenia, Sheayla Rihanna A.  |       Linked List & Catalog Developer
-- Cunanan, Jhoey                |       Stack & Undo/Audit Developer
-- Mier, Ronamae                 |       Queue & Priority Queue Developer
-- De Pedro, Precious Mae M.     |       Search & Sort Developer
-- Quintela, Nicole M.           |       Benchmarking & CLI Developer
+| Member | Role |
+|---|---|
+| Serdenia, Sheayla Rihanna A. | Linked List & Catalog Developer |
+| Cunanan, Jhoey | Stack & Undo/Audit Developer |
+| Mier, Ronamae | Queue & Priority Queue Developer |
+| De Pedro, Precious Mae M. | Search & Sort Developer |
+| Quintela, Nicole M. | Benchmarking & CLI Developer |
